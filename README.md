@@ -15,9 +15,10 @@ Realice uun circuito Vaiven guiandonos de los videos proporcionados y todo el ma
 
 
 ##  MARCO TEÓRICO
-[![ Mapa-Mental-Lluvia-de-Ideas-Colorido-Verde-5.png ](https://i.postimg.cc/C17PgLJk/Mapa-Mental-Lluvia-de-Ideas-Colorido-Verde-5. png)](https://postimg.cc/xJkyGQw1)
-[![ Mapa-Mental-Lluvia-de-Ideas-Colorido-Verde-6.png ](https://i.postimg.cc/Y9rRbBk9/Mapa-Mental-Lluvia-de-Ideas-Colorido-Verde-6. png)](https://postimg.cc/R3YwZ8W5)
-[![ Mapa-Mental-Gr-fico-Ideas-Minimalista-Beige-1.png ](https://i.postimg.cc/nc9LCs7F/Mapa-Mental-Gr-fico-Ideas-Minimalista-Beige-1. png)](https://postimg.cc/xcYQZ1th)
+![image](https://user-images.githubusercontent.com/116779906/213501311-262efc0d-f75d-4969-ac17-0985b54c4fd5.png)
+![image](https://user-images.githubusercontent.com/116779906/213501513-82ad735d-e415-4785-980f-7c385b0e2bf9.png)
+![image](https://user-images.githubusercontent.com/116779906/213501655-a4074a45-c49d-4518-b67f-1be30adb67db.png)
+
 
 ## Diagrama del circuito 
 
@@ -28,10 +29,34 @@ Tenemos el diagrama del circuito
 
 
 ###  Explicación del procedimiento
-[![ Organizador-gr-fico-corporativo-azul-con-im-genes.png ](https://i.postimg.cc/5yzKYdV2/Organizador-gr-fico-corporativo-azul-con-im-genes. png)](https://postimg.cc/H8p9RNnq)
+
+![image](https://user-images.githubusercontent.com/116779906/213502047-1c4a6a86-460e-44cb-b21e-fc09e6c2cecf.png)
+
+- Pelamos los cables para posteriormenete conectaros a los interruptores adecuadamente viendo cual es la fase y cuales  son los contactos para conectar los retornos 
+![image](https://user-images.githubusercontent.com/116779906/213503664-27291d42-9f37-423e-a71e-dabfbe5e8c70.png)
+![image](https://user-images.githubusercontent.com/116779906/213503709-0a6f6e0c-0594-4fd4-82f3-06145f47ff10.png)
+
+- Conectamos la fase de uno de los interruptores a la fase de el enchufe y la fase del otro interruptor a la fase de la roceta 
+![image](https://user-images.githubusercontent.com/116779906/213503934-fcb724a1-4c1c-4e25-b64e-4b605253a488.png)
+
+-Finalmente  conectamos el neutro de nuestro enchufe al neutro de la roceta, hay que recalcal que el procedimiento se debe realizar sin el enchufe conectado 
+![image](https://user-images.githubusercontent.com/116779906/213504232-c5ec8ee8-7365-4f14-8f37-b03df1e6aa9a.png)
+
+- De esta manera tenemos el circuito ya ARmado y funcionando al enchufarlo
+![image](https://user-images.githubusercontent.com/116779906/213504368-34e2084c-9ddc-4e0f-a363-792ee4326258.png)
+
+![image](https://user-images.githubusercontent.com/116779906/213504431-5a004cff-bc19-4b19-ae60-27db488c5351.png)
+
+
+
 
 ## Conclusiones 
 
 - El circuito se basa en interruptores que  permiten o no la circulación de la corriente eléctrica  donde tienen dos puentes  que conectan los dos interruptores  y cada interruptor tiene una fase, la del primer interruptor es la que permite el paso de la corriente desde el enchufe y la fase del segundo interruptor es la que permite que se encienda la bombilla y el neutro de la roceta va conectado al neutro del enchufe y de esta manera permite que se pueda encender y apagar.
 -  Al ver nustrto diagrama entendemos de mejor manera como se conecta el circuito para posteriormente conectarlo en físico
 - Con ayuda de todos los pasos realizados se consigue conectar el circuito y logara un funcionamineto correcto.
+
+## Bibliografía 
+
+https://www.youtube.com/watch?v=q3oUc9_qnyc
+https://www.google.com/search?q=circuito+vaiven&rlz=1C1EJFC_enEC923EC923&oq=circuito+vaiven+&aqs=chrome..69i57j69i59l3j0i271l3j69i59i450l3.2344j0j15&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:67bffaab,vid:mymNGASnpdM
