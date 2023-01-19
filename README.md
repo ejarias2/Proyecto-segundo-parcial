@@ -1,5 +1,6 @@
 # Proyecto-segundo-parcial
-##Integrantes
+## Integrantes
+
 - Javier Arias
 - Mauro Caza
 - Joel Velastegui
